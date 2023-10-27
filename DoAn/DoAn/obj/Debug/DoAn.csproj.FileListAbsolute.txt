@@ -1,0 +1,280 @@
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\DoAn.dll.config
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\DoAn.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\DoAn.pdb
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csc.exe
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csc.rsp
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csi.exe
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\csi.rsp
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\vbc.exe
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DoAn\DoAn\obj\Debug\DoAn.dll
+C:\Users\ADMIN\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\DoAn.dll.config
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\DoAn.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\DoAn.pdb
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csc.exe
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csc.exe.config
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csc.rsp
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csi.exe
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csi.exe.config
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\csi.rsp
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.AppContext.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Collections.Immutable.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Console.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.IO.Compression.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.IO.Pipes.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.AccessControl.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Claims.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.ValueTuple.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Xml.XPath.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\vbc.exe
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\vbc.exe.config
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\vbc.rsp
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe.config
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\obj\Debug\DoAn.dll
+E:\Thái Bình\vui\DoAN\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\DoAn.dll.config
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\DoAn.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\DoAn.pdb
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csc.rsp
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\csi.rsp
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\obj\Debug\DoAn.dll
+C:\Users\ADMIN\source\repos\DoAn2\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\DoAn.dll.config
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\DoAn.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\DoAn.pdb
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe.config
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csc.rsp
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe.config
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\csi.rsp
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.AppContext.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Collections.Immutable.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Console.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Compression.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.AccessControl.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Claims.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.ValueTuple.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe.config
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\vbc.rsp
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe.config
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\obj\Debug\DoAn.dll
+E:\Thái Bình\vui\DoAN\DoAn2\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\DoAn.dll.config
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\DoAn.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\DoAn.pdb
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\obj\Debug\DoAn.dll
+C:\Users\ADMIN\Downloads\DoAn2\DoAn\DoAn\obj\Debug\DoAn.pdb

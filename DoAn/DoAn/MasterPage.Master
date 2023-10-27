@@ -1,0 +1,213 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="DoAn.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .quangcao {
+            width: 300px;
+        }
+
+        .menu {
+            background-color: #d70018;
+            width: 100%;
+            position: fixed;
+            top: 0;
+        }
+        .menu img{
+            width:50px;
+            margin-left:0px;
+        }
+            .menu menuitem {
+                text-align: center;
+                background-color: #d70018;
+                background: #d70018;
+                margin-left:100px;
+            }
+
+        .search {
+            
+            height: 20px;
+            width: 300px;
+            margin: 30px 480px 5px 270px;
+          
+        }
+        .search::placeholder{
+             text-align:center;
+             line-height: inherit;
+        }
+
+        .danhmuc {
+            width: 100px;
+        }
+
+        .banner {
+            width: 100%;
+            height: 200px;
+        }
+
+        .auto-style4 {
+            width: 742px;
+        }
+
+        .auto-style7 {
+            width: 615px;
+        }
+
+        .auto-style8 {
+            width: 849px;
+        }
+
+        .auto-style9 {
+            width: 752px;
+        }
+
+        .content .dlhang {
+            border: 2px solid #CCCCCC;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .hang {
+            margin: 5px 5px;
+            padding: 5px;
+            color: black;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            column-width: 5px;
+            text-decoration: none;
+          
+        }
+        .content2{
+            
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div style="display: flex;" class="menu">
+  <div style="display: flex; align-items: center;">
+      <div>
+    <asp:ImageButton ID="ImageButton2" runat="server"  ImageUrl="~/images/logophone.png" Width="61px" Style="margin-left:100px" />
+          </div>
+      <div>
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Width="" Style="text-align: center;" CssClass="menu">
+      <Items>
+        <asp:MenuItem NavigateUrl="~/TrangChu.aspx" Text="Trang Chủ" Value="Home"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/tintuc.aspx" Text="Tin Tức" Value="Tin Tuc">
+          
+        </asp:MenuItem>
+        <asp:MenuItem Text="Gọi mua hàng(1800.1090)" Value="Gọi mua hàng(1800.1090)"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/Giohang.aspx" Text="Giỏ hàng" Value="Giỏ hàng"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Đăng nhập" Value="Đăng nhập"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/DangKi.aspx" Text="Đăng ký" Value="Đăng ký"></asp:MenuItem>
+      </Items>
+      <StaticHoverStyle Font-Bold="True" Font-Italic="False" />
+      <StaticMenuItemStyle Font-Bold="True" Font-Size="Large" ForeColor="White" HorizontalPadding="40px" />
+      <StaticMenuStyle BackColor="#D70018" />
+    </asp:Menu>
+          </div>
+  </div>
+    <div >
+    <asp:TextBox ID="txt_timkiem" runat="server" Width="517px" placeholder="Nhập từ khóa tìm kiếm" CssClass="search" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
+  </div>
+</div>
+      
+                    <script>
+                window.onscroll = function () { myFunction() };
+
+                var navbar = document.querySelector('.menu');
+                var sticky = navbar.offsetTop;
+
+                function myFunction() {
+                    if (window.pageYOffset >= sticky) {
+                        navbar.classList.add("sticky");
+                    } else {
+                        navbar.classList.remove("sticky");
+                    }
+                        }
+                 
+            </script>
+        <div class="content2">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/quangcao2.png" class="banner" Height="227px" />
+        </div>
+        <div style="display: flex" class="content">
+            <span class="dlhang">
+                <h1>Hãng</h1>
+                <asp:DataList ID="dl_hang" runat="server" CssClass="hang" BackColor="White">
+                    <ItemStyle Font-Size="Large" ForeColor="Red" />
+                    <ItemTemplate>
+                        <asp:LinkButton ID="ltb_loaidt" runat="server" Text='<%# Eval("TenLoai") %>' CommandArgument='<%# Eval("MaLoai") %>' OnClick="ltb_loaidt_Click" CssClass="hang"></asp:LinkButton>
+                    </ItemTemplate>
+                    <SelectedItemStyle Font-Bold="True" />
+                </asp:DataList>
+            </span>
+
+            <span>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </span>
+        </div>
+        <div style="padding-bottom: 2px" class="auto-style12">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+        <footer style="margin-top: 5px; padding-top: 5px">
+            <div class="footer">
+                <table style="background-color: #333333; margin-left: 0px; margin-top: 0px;" class="auto-style14">
+                    <tr>
+                        <td class="auto-style7">
+                            <asp:Image ID="Image2" runat="server" ImageUrl="~/images/logophone.png" Height="72px" Width="83px" />
+                            <br />
+                            <p style="color: #FFFFFF; font-size: small">Cửa hàng điện thoại số 1 Việt Nam</p>
+                        </td>
+                        <td class="auto-style9">
+
+                            <p style="color: #FFFFFF; font-size: x-small">BẠN CẦN HỖ TRỢ</p>
+                            <p style="font-size: x-small; color: #FFFFFF;">Liên hệ:     1900 1090</p>
+                            <p style="color: #FFFFFF; font-size: xx-small;">Địa Chỉ:254 Nguyễn Văn Linh,Hải Châu,Đà Nẵng</p>
+                            <p style="color: #FFFFFF; font-size: xx-small;">Email: support@gmail.com</p>
+                            <p style="font-size: x-small">
+                                <asp:Image ID="Image3" runat="server" ImageUrl="~/images/icon/icons8-fb-24.png" />
+                                <asp:Image ID="Image4" runat="server" Height="24px" ImageUrl="~/images/icon/twitter.png" Width="30px" />
+                                <asp:Image ID="Image5" runat="server" ImageUrl="~/images/icon/icons8-youtube-24.png" />
+                                <asp:Image ID="Image6" runat="server" ImageUrl="~/images/icon/icons8-instagram-24.png" />
+                            </p>
+                            <p style="height: 15px">
+                                <asp:Image ID="Image7" runat="server" ImageUrl="~/images/icon/icons8-visa-24.png" />
+                                <asp:Image ID="Image8" runat="server" ImageUrl="~/images/icon/icons8-paypal-an-online-payments-system-operating-worldwide-24.png" />
+                                <asp:Image ID="Image9" runat="server" ImageUrl="~/images/icon/icons8-apple-pay-30.png" />
+                                <asp:Image ID="Image10" runat="server" ImageUrl="~/images/icon/icons8-visa-24.png" />
+                            </p>
+                        </td>
+                        <td class="auto-style8">
+                            <p style="color: #FFFFFF; font-size: x-small">HƯỚNG DẪN MUA HÀNG</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Trang chủ</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Giới thiệu</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Danh mục sản phẩm</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Tin Tức</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Liên hệ</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Hướng dẫn sử dụng</p>
+                        </td>
+                        <td class="auto-style4">
+                            <p style="color: #FFFFFF; font-size: x-small">HỖ TRỢ KHÁCH HÀNG</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Trang chủ</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Giới thiệu</p>
+                            <p style="color: #FFFFFF; font-size: xx-small">Danh mục sản phẩm</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </footer>
+    </form>
+
+</body>
+
+</html>
